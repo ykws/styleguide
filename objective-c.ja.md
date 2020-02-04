@@ -22,15 +22,15 @@
 
     Modern Objective-C (WWDC 2013)の採用についてのドキュメント。
 
-* [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)（[Objective-Cによるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf)）
+* [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)（[Objective-Cによるプログラミング](https://wiki.onakasuita.org/pukiwiki/?Objective-C%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)）
 
     OS X / iOSにおける最新のObjective-Cリファレンス的ドキュメント。
 
-* [64-Bit Transition Guide for Cocoa Touch](https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaTouch64BitGuide/Introduction/Introduction.html)（[Cocoa Touch 64ビット移行ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaTouch64BitGuide.pdf)）
+* [64-Bit Transition Guide for Cocoa Touch](https://developer.apple.com/documentation/uikit/app_and_environment/updating_your_app_from_32-bit_to_64-bit_architecture?language=objc)
 
     Cocoa Touchアプリの64-bit移行ガイド。
 
-* [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iphone/conceptual/iphoneosprogrammingguide/Introduction/Introduction.html)（[iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)）
+* [App Programming Guide for iOS](http://www.darwinlogic.com/uploads/education/iOS_Programming_Guide.pdf)
 
     アプリがiOSで適切に動作するようにするために考慮すべき主な事項の解説。
 
